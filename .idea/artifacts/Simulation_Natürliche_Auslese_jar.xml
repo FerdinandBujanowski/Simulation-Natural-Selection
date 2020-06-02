@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Simulation Natürliche Auslese:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Simulation_Natürliche_Auslese_jar</output-path>
+    <root id="archive" name="Simulation Natürliche Auslese.jar">
+      <element id="module-output" name="Simulation Natürliche Auslese" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/Informatik Projekte/Work In Progress/ColorRepresenter/ColorRepresenter v1.1/out/artifacts/ColorRepresenter_jar/ColorRepresenter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/Informatik Projekte/MatrixLibrary/out/artifacts/MatrixLibrary_jar/MatrixLibrary.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../Desktop/Informatik Projekte/OpenSimplexNoise/out/artifacts/OpenSimplexNoise_jar/OpenSimplexNoise.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
