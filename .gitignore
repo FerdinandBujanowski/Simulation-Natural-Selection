@@ -44,6 +44,7 @@ cmake-build-*/
 # File-based project format
 *.iws
 
+out/production/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
